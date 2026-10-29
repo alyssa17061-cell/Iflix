@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\controller\CategoriaController.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\controller\UsuarioController.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\core\CorsConfig.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\IflixApplication.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\model\Avaliacao.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\model\Categoria.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\model\Favorito.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\model\Historico.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\model\Midia.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\model\TipoUsuario.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\model\Usuario.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\repository\CategoriaRepository.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\repository\UsuarioRepository.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\service\CategoriaService.java
+C:\Users\aluno\Desktop\iflix-main\iflix-main\backend\src\main\java\br\edu\ifar\iflix\service\UsuarioService.java
